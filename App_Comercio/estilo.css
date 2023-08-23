@@ -1,0 +1,78 @@
+﻿/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 50%;
+    margin: 50px auto;
+    background-color: #fffbfb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   
+}
+
+
+h3 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/*input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}*/
+
+.cajas {
+    width: 80%;
+    background-color: #fbf7f7;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.btn-group {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #4477ef;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn-consultar {
+    padding: 10px 20px;
+    background-color: #4477ef;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn-cancelar {
+    padding: 10px 20px;
+    background-color: #4477ef;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
