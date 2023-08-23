@@ -28,6 +28,7 @@
                 <asp:Button ID="btn_consultar" runat="server" Text="Consultar" CssClass="btn-consultar" OnClick="btn_consultar_Click" />
                 <br />
                 <asp:Label ID="lbl_mensaje" runat="server" Text=""></asp:Label>
+                <br />
             </div>
         </center>
     </form>
